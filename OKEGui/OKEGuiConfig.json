@@ -1,0 +1,9 @@
+{
+    "vspipePath": "F:\\output\\Downloads\\OKEGui\\tools\\vapoursynth\\vspipe.exe",
+    "logLevel": "DEBUG",
+    "singleNuma": false,
+    "rpCheckerPath": "F:\\output\\Downloads\\OKEGui\\tools\\vapoursynth\\RPChecker.exe",
+    "avx512": false,
+    "memoryLimit": 30000,
+    "memoryTotal": 131072
+}
