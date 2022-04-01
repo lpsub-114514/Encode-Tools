@@ -27,7 +27,7 @@ x265编译器，使用时记得要和.json文件和.vpy文件放在同一个文�
 PS: 放在包里的是最通用的版本，如果想提高效率，建议去上面的链接下载适合自己处理器的
 
 
-**MediaInfo:**https://mediaarea.net/en/MediaInfo
+**MediaInfo:** https://mediaarea.net/en/MediaInfo
 
 视频文件信息查看器，左键使用
 
