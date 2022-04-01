@@ -1,0 +1,28 @@
+{
+    "Version" : 2,
+    "ProjectName" : "lpsub_web",
+    "EncoderType" : "x265",
+    "Encoder" : "x265.exe",
+    "EncoderParam" : "--preset veryslow --ctu 32 --min-cu-size 8 --limit-tu 1 --tu-intra-depth 3 --tu-inter-depth 3 --max-tu-size 32 --me 3 --merange 57 --subme 5 --ref 5 --max-merge 3 --radl 2 --min-keyint 1 --keyint 360 --pbratio 1.2 --bframes 16 --weightb --b-adapt 2 --no-strong-intra-smoothing --crf 18 --qpmin 0 --cbqpoffs -2 --crqpoffs -3 --qcomp 0.70 --rdoq-level 2 --psy-rdoq 0.8 --psy-rd 1.5 --aq-mode 1 --aq-strength 0.8 --qg-size 16 --rd 5 --limit-modes --limit-refs 1 --no-rect --no-amp --tskip-fast --rc-lookahead 180 --dynamic-rd 3 --deblock 0:0 --no-sao --hrd --colormatrix bt709 --range limited --aud --repeat-headers --output-depth 10 --level-idc 5.1", 
+    "ContainerFormat" : "mkv",
+    "AudioTracks" : [{
+        "OutputCodec" : "aac",
+		"MuxOption" : "ExtractOnly",
+        "Name": "Orgianal",
+        "Language" : "jpn",
+        "Optional": true
+    }],
+	"SubtitleTracks": [{
+        "MuxOption": "Skip",
+        "Language" : "jpn"
+    }],
+    "InputScript" : "demo_lpsub_web_x265.vpy",
+    "Fps" : 23.976,
+    "InputFiles" : [
+    ],
+    "Config" : {
+        "VspipeArgs" : [
+        ]
+    },
+    "Rpc" : true
+}
