@@ -3,7 +3,7 @@
 
 **OKEGui:** https://github.com/vcb-s/OKEGui
 
-来自VCB的压制集合GUI工具
+来自VCB-Studio的压制集合GUI工具
 
 PS：使用OKEGui之前需要安装
 
@@ -17,12 +17,12 @@ PS3：点进去后，一定要修改vspipe和RPChecker.exe的位置，点开设�
 
 **x264-tmod:** https://github.com/jpsdr/x264/releases
 
-x264编译器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
+x264编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
 
 **x265:** https://github.com/AmusementClub/x265/releases
 
-x265编译器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
+x265编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
 PS: 放在包里的是最通用的版本，如果想提高效率，建议去上面的链接下载适合自己处理器的
 
