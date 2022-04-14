@@ -20,13 +20,13 @@
 ### x264-tmod
 &nbsp;&nbsp;https://github.com/jpsdr/x264/releases
 
-&nbsp;&nbsp;x264编译器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
+&nbsp;&nbsp;x264编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
 
 ### x265
 &nbsp;&nbsp;https://github.com/AmusementClub/x265/releases
 
-&nbsp;&nbsp;x265编译器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
+&nbsp;&nbsp;x265编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
 &nbsp;&nbsp;* PS: 放在包里的是最通用的版本，如果想提高效率，建议去上面的链接下载适合自己处理器的
 
