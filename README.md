@@ -13,8 +13,8 @@
 > [qaac](https://github.com/lipusub/Encode-Tools/releases/download/1.1/AppleApplicationSupport64.msi) （电脑上有iTunes不需要安装） 
 
 &nbsp;&nbsp;* PS2：使用时记得放在纯英文目录
-&nbsp;&nbsp;* PS3：点进去后，一定要修改`vspipe`和`RPChecker.exe`的位置，点开设置修改
-&nbsp;&nbsp;两个都放在：`你的路径\OKEGui\tools\vapoursynth\`下
+
+&nbsp;&nbsp;* PS3：点进去后，一定要修改`vspipe`和`RPChecker.exe`的位置，点开设置修改 两个都放在：`你的路径\OKEGui\tools\vapoursynth\`下
 
 
 ### x264-tmod
