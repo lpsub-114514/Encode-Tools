@@ -4,7 +4,8 @@
 ### OKEGui
 &nbsp;&nbsp;https://github.com/vcb-s/OKEGui
 
-&nbsp;&nbsp;来自`VCB-S`的压制集合GUI工具
+
+&nbsp;&nbsp;来自 **VCB-Studio** 的压制集合GUI工具
 
 &nbsp;&nbsp;* PS：使用`OKEGui`之前需要安装
 
@@ -20,11 +21,13 @@
 ### x264-tmod
 &nbsp;&nbsp;https://github.com/jpsdr/x264/releases
 
+
 &nbsp;&nbsp;x264编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
 
 ### x265
 &nbsp;&nbsp;https://github.com/AmusementClub/x265/releases
+
 
 &nbsp;&nbsp;x265编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
