@@ -4,7 +4,7 @@
 ### OKEGui
 &nbsp;&nbsp;https://github.com/vcb-s/OKEGui
 
-&nbsp;&nbsp;来自VCB的压制集合GUI工具
+&nbsp;&nbsp;来自VCB-S的压制集合GUI工具
 
 &nbsp;&nbsp;* PS：使用OKEGui之前需要安装
 
