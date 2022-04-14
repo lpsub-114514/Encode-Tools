@@ -4,9 +4,9 @@
 ### OKEGui
 &nbsp;&nbsp;https://github.com/vcb-s/OKEGui
 
-&nbsp;&nbsp;来自VCB-S的压制集合GUI工具
+&nbsp;&nbsp;来自`VCB-S`的压制集合GUI工具
 
-&nbsp;&nbsp;* PS：使用OKEGui之前需要安装
+&nbsp;&nbsp;* PS：使用`OKEGui`之前需要安装
 
 > [.NET 4.5](https://www.microsoft.com/zh-cn/download/details.aspx?id=30653)（win10自带）
 
