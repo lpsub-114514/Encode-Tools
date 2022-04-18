@@ -68,8 +68,16 @@
 
 https://github.com/dyphire/mpv-config
 
-win下mpv播放器
+&nbsp;&nbsp;win下mpv播放器
 
 &nbsp;&nbsp;* PS：具体信息看该项目的README.md
+
+### AssFontSubset
+
+&nbsp;&nbsp;https://github.com/youlun/AssFontSubset
+
+&nbsp;&nbsp;ASS 字幕文件的字体子集化工具
+
+&nbsp;&nbsp;* PS：常用字幕合集请在隔壁字幕项目自行提取（还未开坑）
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* **此压制方案由`M.B.F.`制定**
