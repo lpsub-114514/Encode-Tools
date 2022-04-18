@@ -1,9 +1,7 @@
 # Encode-Tools
-
 &nbsp;&nbsp;这里是 **离谱Sub** 字幕组的压制工具合集（基于win64系统）
 
 ### OKEGui
-
 &nbsp;&nbsp;https://github.com/vcb-s/OKEGui
 
 &nbsp;&nbsp;来自 **VCB-Studio** 的压制集合GUI工具
@@ -20,14 +18,12 @@
 
 
 ### x264-tmod
-
 &nbsp;&nbsp;https://github.com/jpsdr/x264/releases
 
 &nbsp;&nbsp;x264编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
 
 
 ### x265
-
 &nbsp;&nbsp;https://github.com/AmusementClub/x265/releases
 
 &nbsp;&nbsp;x265编码器，使用时记得要和.json文件和.vpy文件放在同一个文件夹里。
@@ -36,14 +32,12 @@
 
 
 ### MediaInfo
-
 &nbsp;&nbsp;https://mediaarea.net/en/MediaInfo
 
 &nbsp;&nbsp;视频文件信息查看器，左键使用
 
 
 ### MeGUI
-
 &nbsp;&nbsp;https://sourceforge.net/projects/megui/
 
 &nbsp;&nbsp;综合工具，可以用来压缩音频，混流，抽流，章节工具
@@ -52,14 +46,12 @@
 
 
 ### MKVToolNix
-
 &nbsp;&nbsp;https://mkvtoolnix.download/downloads.html
 
 &nbsp;&nbsp;MKV封装工具
 
 
 ### vapoursynth-portable-FATPACK
-
 &nbsp;&nbsp;https://github.com/theChaosCoder/vapoursynth-portable-FATPACK
 
 &nbsp;&nbsp;Vapoursynth便携版（带常用插件），已经和OKEGui打包在了一起，不需要单独安装了
@@ -68,16 +60,16 @@
 
 https://github.com/dyphire/mpv-config
 
-&nbsp;&nbsp;win下mpv播放器
+win下mpv播放器
 
 &nbsp;&nbsp;* PS：具体信息看该项目的README.md
 
 ### AssFontSubset
 
-&nbsp;&nbsp;https://github.com/youlun/AssFontSubset
+https://github.com/youlun/AssFontSubset
 
-&nbsp;&nbsp;ASS 字幕文件的字体子集化工具
+ASS 字幕文件的字体子集化工具
 
-&nbsp;&nbsp;* PS：常用字幕合集请在隔壁字幕项目自行提取（还未开坑）
+&nbsp;&nbsp;* PS：常用字幕合集请在隔壁字幕自行提取（还未开坑）
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* **此压制方案由`M.B.F.`制定**
