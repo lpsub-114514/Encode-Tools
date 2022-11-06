@@ -1,0 +1,28 @@
+{
+  "Version": 2,
+  "ProjectName": "x264-WebRip-CHS",
+  "EncoderType": "x264",
+  "Encoder": "x264.exe",
+  "EncoderParam": "--level 5.0 --preset veryslow --profile high --crf 19.0 --deblock -1:-1 --keyint 480 --min-keyint 1 --ref 9 --vbv-bufsize 35000 --vbv-maxrate 34000 --chroma-qp-offset 1 --qcomp 0.65 --rc-lookahead 80 --aq-mode 1 --aq-strength 0.90 --merange 24 --fgo 1 --psy-rd 0.60:0.20 --no-fast-pskip --colorprim bt709 --transfer bt709 --colormatrix bt709 --subme 10",
+  "ContainerFormat": "mp4",
+  "AudioTracks": [
+    {
+      "OutputCodec": "aac",
+      "Language": "jpn",
+      "Optional": true
+    }
+  ],
+  "SubtitleTracks": [
+    {
+      "TrackId": 0,
+      "MuxOption": "Skip",
+      "Optional": true
+    }
+  ],
+  "InputScript": "demo_x264_lolihouseBased.vpy",
+  "Fps": 23.976,
+  "Config": {
+    "VspipeArgs": []
+  },
+  "Rpc": true
+}
