@@ -27,7 +27,7 @@ op = core.rgvs.RemoveGrain(src16, 20)
 res = core.std.Trim(src16, 0, int(op_start) - 1) + core.std.Trim(op, int(op_start), int(op_end)) + core.std.Trim(src16, int(op_end) + 1, src16.num_frames - 1)
 
 #OKE:DEBUG
-Debug = 1
+Debug = 0
 if Debug:
 	res=core.std.Interleave([src16, res])
 	res=mvf.ToRGB(res,full=False,depth=8) 
