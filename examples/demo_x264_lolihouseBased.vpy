@@ -3,6 +3,8 @@ import mvsfunc as mvf
 import adptvgrnMod as adp
 
 # 字幕组新番 web源 x264 通用脚本
+# libass
+# 字幕文件名为 视频文件名(去除后缀).sc.ass
 
 core = vs.core
 #OKE:MEMORY
