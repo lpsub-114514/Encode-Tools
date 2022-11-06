@@ -54,7 +54,7 @@
 &nbsp;&nbsp;`MKV` 封装工具
 
 
-~### vapoursynth-portable-FATPACK~
+### ~vapoursynth-portable-FATPACK~
 ~&nbsp;&nbsp;https://github.com/theChaosCoder/vapoursynth-portable-FATPACK~
 
 ~&nbsp;&nbsp;`Vapoursynth` 便携版（带常用插件），已经和 `OKEGui` 打包在了一起，不需要单独安装了~
