@@ -4,13 +4,13 @@
 ### OKEGui
 ~&nbsp;&nbsp;https://github.com/vcb-s/OKEGui~
 
-~&nbsp;&nbsp;来自 **VCB-Studio** 的压制集合GUI工具~
+&nbsp;&nbsp;来自 **VCB-Studio** 的压制集合GUI工具
 
-~&nbsp;&nbsp;* PS：使用 `OKEGui` 之前需要安装~<br>
-> ~[.NET 4.5](https://www.microsoft.com/zh-cn/download/details.aspx?id=30653)（win10自带）~<br>
-> ~[qaac](https://github.com/lipusub/Encode-Tools/releases/download/1.1/AppleApplicationSupport64.msi) （电脑上有iTunes不需要安装）~
+&nbsp;&nbsp;* PS：使用 `OKEGui` 之前需要安装<br>
+> [.NET 4.5](https://www.microsoft.com/zh-cn/download/details.aspx?id=30653)（win10自带）<br>
+> [qaac](https://github.com/lipusub/Encode-Tools/releases/download/1.1/AppleApplicationSupport64.msi) （电脑上有iTunes不需要安装）
 
-~&nbsp;&nbsp;* PS2：使用时记得放在纯英文目录~<br>
+&nbsp;&nbsp;* PS2：使用时记得放在纯英文目录<br>
 ~&nbsp;&nbsp;* PS3：点进去后，一定要修改 `vspipe` 和 `RPChecker.exe` 的位置，点开设置修改 两个都放在: `你的路径\OKEGui\tools\vapoursynth\` 下~
 
 前往 https://github.com/AmusementClub/tools/releases 下载`OKEGui_portable_xxxxxx.7z`
