@@ -18,7 +18,7 @@
 &nbsp;&nbsp;*x264* 编码器，使用时记得要和 `.json` 文件和 `.vpy` 文件放在同一个文件夹里。  
 
 ### x265
-&nbsp;&nbsp;https://github.com/AmusementClub/x265/releases  
+&nbsp;&nbsp;https://github.com/Mr-Z-2697/x265-Yuuki-Asuna/releases  
 &nbsp;&nbsp;*x265* 编码器，使用时记得要和 `.json` 文件和 `.vpy` 文件放在同一个文件夹里。  
 
 ### MediaInfo
